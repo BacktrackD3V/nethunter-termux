@@ -1,4 +1,2 @@
 # nethunter-termux
-This script downloads minimal Kali chroot and installing this
-Working without root
-Using Proot
+This script downloads minimal Kali chroot and installing this\nWorking without root\nUsing Proot
